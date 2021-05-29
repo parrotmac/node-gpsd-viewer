@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "node-gpsd": "^0.3.0",
-    "ws": "^7.1.1"
+    "ws": "^7.4.6"
   }
 }
